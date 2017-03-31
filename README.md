@@ -130,6 +130,10 @@ HELLO MICHEL
 History Log
 ------------------
     
+- 1.1.0 -- 2017-03-31
+
+    - add ProgramHelper.highlight
+    
 - 1.0.0 -- 2017-03-30
 
     - initial commit
