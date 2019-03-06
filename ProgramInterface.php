@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Program;
+namespace Ling\Program;
 
 
 interface ProgramInterface

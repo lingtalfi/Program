@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Program;
+namespace Ling\Program;
 
 
-use CommandLineInput\CommandLineInputInterface;
-use Output\ProgramOutputInterface;
+use Ling\CommandLineInput\CommandLineInputInterface;
+use Ling\Output\ProgramOutputInterface;
 
 class ProgramHelper
 {

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Program;
+namespace Ling\Program;
 
 
-use CommandLineInput\CommandLineInputInterface;
-use Output\ProgramOutputInterface;
-use Program\Exception\ProgramException;
+use Ling\CommandLineInput\CommandLineInputInterface;
+use Ling\Output\ProgramOutputInterface;
+use Ling\Program\Exception\ProgramException;
 
 class Program implements ProgramInterface
 {

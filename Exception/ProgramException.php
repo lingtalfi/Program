@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Program\Exception;
+namespace Ling\Program\Exception;
 
 
 class ProgramException extends \Exception

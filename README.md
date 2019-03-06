@@ -19,7 +19,7 @@ Download the repository where you want, or use the [uni tool](https://github.com
 like so:
 
 ```bash
-uni import Program
+uni import Ling/Program
 ```
 
 
@@ -44,14 +44,14 @@ use ApplicationItemManager\Installer\KamilleWidgetInstaller;
 use ApplicationItemManager\ItemList\KamilleWidgetsItemList;
 use ApplicationItemManager\LingApplicationItemManager;
 use ApplicationItemManager\Program\ApplicationItemManagerProgram;
-use CommandLineInput\CommandLineInputInterface;
-use CommandLineInput\ProgramOutputAwareCommandLineInput;
+use Ling\CommandLineInput\CommandLineInputInterface;
+use Ling\CommandLineInput\ProgramOutputAwareCommandLineInput;
 use Kamille\Architecture\ApplicationParameters\ApplicationParameters;
-use Output\ProgramOutput;
-use Output\ProgramOutputInterface;
-use Program\Program;
-use Program\ProgramHelper;
-use Program\ProgramInterface;
+use Ling\Output\ProgramOutput;
+use Ling\Output\ProgramOutputInterface;
+use Ling\Program\Program;
+use Ling\Program\ProgramHelper;
+use Ling\Program\ProgramInterface;
 
 
 //--------------------------------------------
